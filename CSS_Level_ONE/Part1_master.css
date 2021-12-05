@@ -1,0 +1,18 @@
+/*This is comment section*/
+/* selected tag{
+  property: value;
+} */
+h1{
+  color: red;
+}
+
+li{
+  color: rgb(8,84,1);
+}
+p{
+  color: #088a0a;
+}
+
+h4{
+  color: rgba(8,84,1,0.5);
+}
